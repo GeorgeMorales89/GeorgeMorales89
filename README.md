@@ -1,6 +1,6 @@
 # Hey there! My name is George. 👋 🛸 🧑🏻‍💻
 
-<img src="https://github.com/user-attachments/assets/77a79b7d-33ab-47ab-a2a4-a9c0dd54abd9" alt="picture of Los Angeles" height="500" width="750">
+<img src="https://github.com/user-attachments/assets/77a79b7d-33ab-47ab-a2a4-a9c0dd54abd9" alt="picture of Los Angeles" style="max-width: 100%l height= auto;">
 
 ## A little bit about me...
 I am a web developer who loves to create beautiful and functional user experiences with a passion for design!
