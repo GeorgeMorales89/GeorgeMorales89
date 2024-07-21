@@ -31,6 +31,10 @@ I am a web developer who loves to create beautiful and functional user experienc
   <img src="https://github.com/user-attachments/assets/25f8fd2c-f02c-4f40-905f-18c054207598" alt="Vite.js" width="50" height="50"></a> 
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://github.com/user-attachments/assets/e1618017-22ed-4cd2-8deb-9909a62a08c8" alt="Figma" width="50" height="50"></a>  
+  
+<div>&nbsp;</div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMorales89&layout=compact)
 
 ## Connect with me: 
 <a href="https://github.com/GeorgeMorales89" target="_blank">
@@ -41,3 +45,4 @@ I am a web developer who loves to create beautiful and functional user experienc
   <img src="https://github.com/user-attachments/assets/46ea885a-7d76-4d76-b2f4-1b3e3e56910c" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.instagram.com/georgemoralez/" target="_blank">
   <img src="https://github.com/user-attachments/assets/1bf7a892-3840-4146-99a5-560b9021f721" alt="Linkedin" width="50" height="50"></a>
+
